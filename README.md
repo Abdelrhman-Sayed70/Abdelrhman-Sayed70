@@ -7,8 +7,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman-Sayed70" alt="Abdelrhman-Sayed70" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdelrhman-Sayed70)](https://github.com/Abdelrhman-Sayed70/github-profile-trophy)
 
 ### 📫 Reach me :
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='30'>]( https://www.linkedin.com/in/abdelrhman-sayed-a79104231/)
