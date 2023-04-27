@@ -7,7 +7,6 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdelrhman-Sayed70)](https://github.com/Abdelrhman-Sayed70/github-profile-trophy)
 
 ### 📫 Reach me :
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='30'>]( https://www.linkedin.com/in/abdelrhman-sayed-a79104231/)
@@ -17,7 +16,9 @@
 [<img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg' alt='Facebook' height='30'>]( https://www.facebook.com/profile.php?id=100024304835136)
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdelrhman-Sayed70&theme=midnight-purple&background=000000)](https://git.io/streak-stats)
 
+![Bn_Gaber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Sayed70&show_icons=true&theme=midnight-purple)
 
-
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdelrhman-Sayed70)](https://github.com/Abdelrhman-Sayed70/github-profile-trophy)
