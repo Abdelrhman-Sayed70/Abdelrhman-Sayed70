@@ -9,7 +9,7 @@
 
 
 ### 📫 Reach me
-<a href="https://codeforces.com/profile/Bn_Gaber"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=2.5%/></a>
+<a href="https://codeforces.com/profile/Bn_Gaber"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=3.%/></a>
 	  &emsp; 
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='Linkedin' height='30'>]( https://www.linkedin.com/in/abdelrhman-sayed-a79104231/)
 &nbsp;&nbsp;&nbsp;
