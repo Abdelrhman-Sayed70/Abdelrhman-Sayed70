@@ -1,7 +1,7 @@
 <p><a href="https://www.asu.edu.eg/"><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="100" /></a></p>
 <h1 align="center">Hi 👋, I'm Abdelrhman </h1>
 
-#### `In crises the most daring course is often safest`
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman-sayed70&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman-sayed70" /> 
  <img src="https://img.shields.io/github/followers/Abdelrhman-Sayed70?label=Followers&color=0e75b6&style=flat" alt="Abdelrhman-Sayed70" height="21" width="100" />
